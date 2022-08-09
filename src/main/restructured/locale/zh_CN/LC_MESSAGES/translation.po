@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../Administration/HTTP_File_Upload_component.rst:2
 msgid "HTTP File Upload component"
-msgstr ""
+msgstr "文件上传部件"
 
 #: ../../Administration/HTTP_File_Upload_component.rst:4
 msgid ""
